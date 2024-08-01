@@ -4,6 +4,7 @@
 #
 #    pip-compile requirements.in
 #
+scikit-learn==1.1.2
 altair==4.2.0
     # via streamlit
 appnope==0.1.3
